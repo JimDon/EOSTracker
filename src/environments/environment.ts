@@ -7,7 +7,7 @@ export const environment = {
   production: false,
   walletUrl: 'https://portal.telosgermany.io',
   votingUrl: 'https://telos.eosx.io/tools/vote',
-  appName: 'Telos Testnet Explorer',
+  appName: 'Xeniro Testnet Explorer',
   logoUrl: '/assets/logo.png',
   blockchainUrl: 'https://testnet.eos.miami',
   chainId: 'e17615decaecd202a365f4c029f206eee98511979de8a5756317e2469f2289e3',
